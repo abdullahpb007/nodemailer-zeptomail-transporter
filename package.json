@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-zeptomail-transporter",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Nodemailer Transporter for Zoho Zeptomail",
   "author": "Abdullah PB <abdullahpb007@gmail.com>",
   "license": "MIT",
